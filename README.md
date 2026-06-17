@@ -98,7 +98,25 @@ $ cat ferr.txt
 
 </div>
 
+------
+
+## `> visitas`
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Fernandamv96&color=BD93F9&style=flat-square&label=visitors)
+
+</div>
+
 ---
+
+## `> trofeos`
+
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=Fernandamv96&color=BD93F9&style=flat-square&label=visitors)
+
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&pause=1000&color=6e7681&center=true&vCenter=true&width=400&lines=thanks+for+visiting+%E2%99%A1;go+touch+some+grass+bestie" alt="footer" />
