@@ -4,17 +4,17 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/hacker_girl-★-ff2d78?style=flat-square&labelColor=0a0a0a&color=ff2d78"/>
-<img src="https://img.shields.io/badge/code_%26_chaos-✦-ff79c6?style=flat-square&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/she%2Fher-♥-ff2d78?style=flat-square&labelColor=ff2d78&color=ff79c6"/>
+<img src="https://img.shields.io/badge/hacker_girl-ff2d78?style=flat-square&labelColor=0a0a0a&color=ff2d78"/>
+<img src="https://img.shields.io/badge/code_%26_chaos-ff79c6?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/she%2Fher-ff2d78?style=flat-square&labelColor=ff2d78&color=ff79c6"/>
 <img src="https://img.shields.io/badge/CTF_mode-ON-00ffcc?style=flat-square&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/cybersec-⚡-00e5ff?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/cybersec-00e5ff?style=flat-square&labelColor=0a0a0a"/>
 <br/>
-<img src="https://img.shields.io/badge/arte_digital-★-ff00ff?style=flat-square&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/pink_%26_dangerous-✦-ff79c6?style=flat-square&labelColor=1a001a"/>
-<img src="https://img.shields.io/badge/música_lover-♥-ff6ec7?style=flat-square&labelColor=ff2d78&color=fff"/>
-<img src="https://img.shields.io/badge/gaming-◆-bd93f9?style=flat-square&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/night_owl-✶-39ff14?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/arte_digital-ff00ff?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/pink_%26_dangerous-ff79c6?style=flat-square&labelColor=1a001a"/>
+<img src="https://img.shields.io/badge/música_lover-ff6ec7?style=flat-square&labelColor=ff2d78&color=fff"/>
+<img src="https://img.shields.io/badge/gaming-bd93f9?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/night_owl-39ff14?style=flat-square&labelColor=0a0a0a"/>
 
 </div>
 
