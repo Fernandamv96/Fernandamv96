@@ -4,11 +4,11 @@
 
 <br/>
 
-![](https://img.shields.io/badge/hacking-CTF-ff2d55?style=flat-square&logo=hackthebox&logoColor=white)
-![](https://img.shields.io/badge/arte_%26_dise%C3%B1o-🎨-BD93F9?style=flat-square)
-![](https://img.shields.io/badge/gaming-👾-53d8fb?style=flat-square)
-![](https://img.shields.io/badge/música-🎵-50fa7b?style=flat-square)
-![](https://img.shields.io/badge/coffee-always-ff6b6b?style=flat-square&logo=buymeacoffee&logoColor=white)
+![hacking CTF](https://img.shields.io/badge/hacking-CTF-ff2d55?style=flat-square&logo=hackthebox&logoColor=white)
+![arte & diseño](https://img.shields.io/badge/arte_%26_dise%C3%B1o-🎨-BD93F9?style=flat-square)
+![gaming](https://img.shields.io/badge/gaming-👾-53d8fb?style=flat-square)
+![música](https://img.shields.io/badge/música-🎵-50fa7b?style=flat-square)
+![coffee](https://img.shields.io/badge/coffee-always-ff6b6b?style=flat-square&logo=buymeacoffee&logoColor=white)
 
 </div>
 
