@@ -26,6 +26,10 @@
 
 ## `> whoami`
 
+<div align="center">
+  <img src="pixel-pc.svg" alt="pixel computer" width="60%"/>
+</div>
+
 ```bash
 $ cat ferr.txt
 
