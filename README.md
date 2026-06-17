@@ -124,7 +124,25 @@ $ cat ferr.txt
 </div>
 
 ---
+## `> activity`
 
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernandamv96&theme=dracula&hide_border=true&bg_color=0d1117&color=BD93F9&line=ff79c6&point=ff2d78)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `> streak`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fernandamv96&theme=dracula&hide_border=true&background=0d1117&ring=ff79c6&fire=ff2d78&currStreakLabel=BD93F9)](https://git.io/streak-stats)
+
+</div>
+
+---
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&pause=1000&color=6e7681&center=true&vCenter=true&width=400&lines=thanks+for+visiting+%E2%99%A1;go+touch+some+grass+bestie" alt="footer" />
 </div>
