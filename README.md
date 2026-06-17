@@ -1,9 +1,22 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=por+si+no+te+lo+han+dicho+hoy...;lo+est%C3%A1s+haciendo+INCRE%C3%8DBLE+%E2%9C%A8;s%C3%AD%2C+t%C3%BA.+exactamente+t%C3%BA." alt="Typing SVG" />
-
 <br/>
+<div align="center">
 
+<img src="https://img.shields.io/badge/hacker_girl-★-ff2d78?style=flat-square&labelColor=0a0a0a&color=ff2d78"/>
+<img src="https://img.shields.io/badge/code_%26_chaos-✦-ff79c6?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/she%2Fher-♥-ff2d78?style=flat-square&labelColor=ff2d78&color=ff79c6"/>
+<img src="https://img.shields.io/badge/CTF_mode-ON-00ffcc?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/cybersec-⚡-00e5ff?style=flat-square&labelColor=0a0a0a"/>
+<br/>
+<img src="https://img.shields.io/badge/arte_digital-★-ff00ff?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/pink_%26_dangerous-✦-ff79c6?style=flat-square&labelColor=1a001a"/>
+<img src="https://img.shields.io/badge/música_lover-♥-ff6ec7?style=flat-square&labelColor=ff2d78&color=fff"/>
+<img src="https://img.shields.io/badge/gaming-◆-bd93f9?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/night_owl-✶-39ff14?style=flat-square&labelColor=0a0a0a"/>
+
+</div>
 ![hacking CTF](https://img.shields.io/badge/hacking-CTF-ff2d55?style=flat-square&logo=hackthebox&logoColor=white)
 ![arte & diseño](https://img.shields.io/badge/arte_%26_dise%C3%B1o-🎨-BD93F9?style=flat-square)
 ![gaming](https://img.shields.io/badge/gaming-👾-53d8fb?style=flat-square)
