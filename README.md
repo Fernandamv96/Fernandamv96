@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-ferr.svg" alt="Ferr banner" width="100%"/>
+</p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=por+si+no+te+lo+han+dicho+hoy...;lo+est%C3%A1s+haciendo+INCRE%C3%8DBLE+%E2%9C%A8;s%C3%AD%2C+t%C3%BA.+exactamente+t%C3%BA." alt="Typing SVG" />
@@ -15,6 +19,7 @@
 ![](https://img.shields.io/badge/-música%20lover-ff6ec7?style=flat-square)
 ![](https://img.shields.io/badge/-gaming-bd93f9?style=flat-square)
 ![](https://img.shields.io/badge/-night%20owl-39ff14?style=flat-square)
+
 </div>
 
 ---
@@ -124,6 +129,7 @@ $ cat ferr.txt
 </div>
 
 ---
+
 ## `> activity`
 
 <div align="center">
@@ -143,6 +149,7 @@ $ cat ferr.txt
 </div>
 
 ---
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&pause=1000&color=6e7681&center=true&vCenter=true&width=400&lines=thanks+for+visiting+%E2%99%A1;go+touch+some+grass+bestie" alt="footer" />
 </div>
