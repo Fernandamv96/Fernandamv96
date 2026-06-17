@@ -114,7 +114,7 @@ $ cat ferr.txt
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fernandamv96&theme=dracula&no-frame=true&row=1&column=6)](https://github.com/Fernandamv96)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fernandamv96&theme=radical&no-frame=true&row=1&column=6)](https://github.com/Fernandamv96)
 
 </div>
 
