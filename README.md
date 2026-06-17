@@ -114,7 +114,7 @@ $ cat ferr.txt
 
 <div align="center">
 
-![visitors](https://komarev.com/ghpvc/?username=Fernandamv96&color=BD93F9&style=flat-square&label=visitors)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fernandamv96&theme=dracula&no-frame=true&row=1&column=6)](https://github.com/Fernandamv96)
 
 </div>
 
