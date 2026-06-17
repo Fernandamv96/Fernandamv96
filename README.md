@@ -22,7 +22,7 @@
 
 </div>
 
----
+<img src="sep-pink.svg" width="100%"/>
 
 ## `> whoami`
 
@@ -36,7 +36,7 @@ $ cat ferr.txt
   estado   →  siempre aprendiendo...
 ```
 
----
+<img src="sep-purple.svg" width="100%"/>
 
 ## `> stack`
 
@@ -51,7 +51,22 @@ $ cat ferr.txt
 
 </div>
 
----
+<img src="sep-cyan.svg" width="100%"/>
+
+## `> currently learning`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-78%25-ff79c6?style=flat-square&logo=python&logoColor=white&labelColor=1a001a)
+![JavaScript](https://img.shields.io/badge/JavaScript-65%25-bd93f9?style=flat-square&logo=javascript&logoColor=white&labelColor=1a001a)
+![Linux](https://img.shields.io/badge/Linux%2FBash-82%25-00ffcc?style=flat-square&logo=linux&logoColor=white&labelColor=1a001a)
+![CTF](https://img.shields.io/badge/CTF%2FHacking-55%25-ff2d78?style=flat-square&logo=hackthebox&logoColor=white&labelColor=1a001a)
+![HTML CSS](https://img.shields.io/badge/HTML%2FCSS-90%25-ff79c6?style=flat-square&logo=html5&logoColor=white&labelColor=1a001a)
+![Networking](https://img.shields.io/badge/Networking-48%25-bd93f9?style=flat-square&logo=cisco&logoColor=white&labelColor=1a001a)
+
+</div>
+
+<img src="sep-pink.svg" width="100%"/>
 
 ## `> stats`
 
@@ -62,7 +77,7 @@ $ cat ferr.txt
 
 </div>
 
----
+<img src="sep-purple.svg" width="100%"/>
 
 ## `> proyectos`
 
@@ -72,7 +87,7 @@ $ cat ferr.txt
 
 </div>
 
----
+<img src="sep-cyan.svg" width="100%"/>
 
 ## `> snake`
 
@@ -85,30 +100,21 @@ $ cat ferr.txt
 
 </div>
 
----
-
-## `> música`
-
-<div align="center">
-
-[![Fernanda_Mv](https://img.shields.io/badge/Fernanda_Mv-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3172sdkmnqoucgtdmsmun6nl6xf4?si=146b3cc1b6094202)
-
-*escuchando lo que sea que me mantenga en modo focus* 🎧
-
-</div>
-
----
+<img src="sep-pink.svg" width="100%"/>
 
 ## `> contacto`
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Pelusaaaaaaaa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pelusaaaaaaaa@gmail.com)
-[![GitHub](https://img.shields.io/badge/Fernandamv96-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernandamv96)
+[![Gmail](https://img.shields.io/badge/Gmail-Pelusaaaaaaaa-ff2d78?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a001a)](mailto:Pelusaaaaaaaa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Fernandamv96-ff79c6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a001a)](https://github.com/Fernandamv96)
+[![Spotify](https://img.shields.io/badge/Spotify-Fernanda__Mv-00ffcc?style=for-the-badge&logo=spotify&logoColor=white&labelColor=001a0a)](https://open.spotify.com/user/3172sdkmnqoucgtdmsmun6nl6xf4?si=146b3cc1b6094202)
+
+*escuchando lo que sea que me mantenga en modo focus* 🎧
 
 </div>
 
----
+<img src="sep-purple.svg" width="100%"/>
 
 ## `> visitas`
 
@@ -118,8 +124,6 @@ $ cat ferr.txt
 
 </div>
 
----
-
 ## `> trofeos`
 
 <div align="center">
@@ -128,17 +132,15 @@ $ cat ferr.txt
 
 </div>
 
----
+<img src="sep-cyan.svg" width="100%"/>
 
 ## `> activity`
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernandamv96&theme=dracula&hide_border=true&bg_color=0d1117&color=BD93F9&line=ff79c6&point=ff2d78)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernandamv96&theme=dracula&hide_border=true&bg_color=0d1117&color=BD93F9&line=ff79c6&point=ff2d78)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
 
 ## `> streak`
 
@@ -148,7 +150,7 @@ $ cat ferr.txt
 
 </div>
 
----
+<img src="sep-pink.svg" width="100%"/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&pause=1000&color=6e7681&center=true&vCenter=true&width=400&lines=thanks+for+visiting+%E2%99%A1;go+touch+some+grass+bestie" alt="footer" />
