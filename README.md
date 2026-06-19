@@ -9,18 +9,9 @@
 
 <br/>
 
-![](https://img.shields.io/badge/-hacker%20girl-ff2d78?style=flat-square)
-![](https://img.shields.io/badge/-code%20%26%20chaos-bd93f9?style=flat-square)
-![](https://img.shields.io/badge/-she%2Fher-ff79c6?style=flat-square)
-![](https://img.shields.io/badge/-CTF%20mode%20ON-00ffcc?style=flat-square)
-![](https://img.shields.io/badge/-cybersec-00e5ff?style=flat-square)
+<img src="./b1.svg"/> <img src="./b2.svg"/> <img src="./b3.svg"/> <img src="./b4.svg"/> <img src="./b5.svg"/>
 <br/>
-![](https://img.shields.io/badge/-arte%20digital-ff00ff?style=flat-square)
-![](https://img.shields.io/badge/-pink%20%26%20dangerous-ff79c6?style=flat-square)
-![](https://img.shields.io/badge/-música%20lover-ff6ec7?style=flat-square)
-![](https://img.shields.io/badge/-gaming-bd93f9?style=flat-square)
-![](https://img.shields.io/badge/-night%20owl-39ff14?style=flat-square)
-
+<img src="./b6.svg"/> <img src="./b7.svg"/> <img src="./b8.svg"/> <img src="./b9.svg"/> <img src="./b10.svg"/>
 </div>
 
 <img src="sep-pink.svg" width="100%"/>
