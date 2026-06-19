@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="20">
+  <rect width="130" height="20" fill="#1a001a" rx="2"/>
+  <rect width="130" height="20" fill="none" stroke="#ff79c6" stroke-width="1" rx="2"/>
+  <text x="65" y="14" font-family="monospace" font-size="10" fill="#ff79c6" text-anchor="middle">✦ pink &amp; dangerous</text>
+</svg>
