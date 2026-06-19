@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="20">
+  <rect width="80" height="20" fill="#0a0a0a" rx="2"/>
+  <rect width="80" height="20" fill="none" stroke="#bd93f9" stroke-width="1" rx="2"/>
+  <text x="40" y="14" font-family="monospace" font-size="10" fill="#bd93f9" text-anchor="middle">◆ gaming</text>
+</svg>

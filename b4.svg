@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="20">
+  <rect width="110" height="20" fill="#0a0a0a" rx="2"/>
+  <rect width="110" height="20" fill="none" stroke="#00ffcc" stroke-width="1" rx="2"/>
+  <text x="55" y="14" font-family="monospace" font-size="10" fill="#00ffcc" text-anchor="middle">⚡ CTF mode ON</text>
+</svg>
