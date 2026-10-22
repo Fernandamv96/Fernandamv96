@@ -96,6 +96,16 @@ $ cat ferr.txt
 
 </div>
 
+<img src="sep-purple.svg" width="100%"/>
+
+## `> space shooter`
+
+<div align="center">
+
+<img src="game.gif" alt="Space Shooter de mis contribuciones" width="100%"/>
+
+</div>
+
 <img src="sep-pink.svg" width="100%"/>
 
 ## `> contacto`
